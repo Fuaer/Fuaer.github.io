@@ -1,5 +1,5 @@
 baseurl: https://fuaer.com
-languageCode: en-us
+languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
 title: FuaerCN
