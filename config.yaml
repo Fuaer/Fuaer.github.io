@@ -47,7 +47,7 @@ params:
         enabled: true
         provider: utterances
         utterances:
-            repo:Fuaer/Fuaer.github.io
+            repo: Fuaer/Fuaer.github.io
             issueTerm: pathname
             label:
             theme: preferred-color-scheme
