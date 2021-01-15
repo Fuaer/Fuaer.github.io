@@ -47,7 +47,7 @@ params:
         enabled: true
         provider: disqus
         utterances:
-            repo:
+            repo:Fuaer/Fuaer.github.io
             issueTerm: pathname
             label:
             theme: preferred-color-scheme
